@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\bin\Debug\net7.0\Fizz_Buzz_Game.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\bin\Debug\net7.0\Fizz_Buzz_Game.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\bin\Debug\net7.0\Fizz_Buzz_Game.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\bin\Debug\net7.0\Fizz_Buzz_Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\bin\Debug\net7.0\Fizz_Buzz_Game.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\refint\Fizz_Buzz_Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\Fizz_Buzz_Game.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Fizz_Buzz_Game\obj\Debug\net7.0\ref\Fizz_Buzz_Game.dll
